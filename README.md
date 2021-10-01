@@ -62,7 +62,7 @@ In this part  I visualize the data to have a better understanding of the data us
 </p>
 
 <p align="left">
-  <img width="480" height="250" src="images/loss.png">
+  <img width="480" height="250" src="images/loss_plot.png">
 </p>
 
 ***loss: 0.0279 - accuracy: 0.9967 - val_loss: 2.0245 - val_accuracy: 0.9766***
