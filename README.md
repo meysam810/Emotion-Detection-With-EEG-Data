@@ -9,6 +9,12 @@ https://www.researchgate.net/publication/329403546_Mental_Emotional_Sentiment_Cl
 
 https://www.researchgate.net/publication/335173767_A_Deep_Evolutionary_Approach_to_Bioinspired_Classifier_Optimisation_for_Brain-Machine_Interaction
 
+
+## Purpose of the Project
+
+Using trained model  given in this project we can recognize the person's feelings, this technique can be a positive effect on collecting opinions and emotions 
+
+
 ## Overview
 
 ### 1) Understand the data (Shape , missing values , data types )
@@ -19,9 +25,11 @@ https://www.researchgate.net/publication/335173767_A_Deep_Evolutionary_Approach_
 
 ### 4) Implement PCA clustering analysis
 
-##  5) Implement LSTM
+###  5) Implement LSTM
 
-##  6) Testing model
+###  6) Testing model
+
+
 
 ## Libraries used in the notebook
 
