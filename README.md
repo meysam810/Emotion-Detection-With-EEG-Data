@@ -34,12 +34,17 @@ https://www.researchgate.net/publication/335173767_A_Deep_Evolutionary_Approach_
 
 ## Data Visualization 
 In this part  I visualize the data to have a better understanding of the data using [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)
-
+<p align="left">
 ![alt text](https://github.com/meysam810/Emotion-Detection-With-EEG-Data/blob/master/images/signals_analysis.png)
+![alt text](https://github.com/meysam810/Emotion-Detection-With-EEG-Data/blob/master/images/signals_analysis2.png)
+![alt text](https://github.com/meysam810/Emotion-Detection-With-EEG-Data/blob/master/images/signals_analysis3.png)
+</p>
 
 ## Implement PCA clustering analysis
 
+<p align="left">
 ![alt text](https://github.com/meysam810/Emotion-Detection-With-EEG-Data/blob/master/images/pca_analysis.png)
+</p>
 
 ## LSTM Model Performance
 
